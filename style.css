@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+}
+
+#first{
+    width: 50%;
+    margin-left: 25%;
+    
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+#text{
+    font-family: 'Caveat', cursive; color: white;  
+    text-align:center;
+    text-transform: capitalize;
+    font-size: xx-large
+    
+}
